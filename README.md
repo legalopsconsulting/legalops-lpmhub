@@ -1,7 +1,7 @@
 # daily-briefing
 
 **Plugin:** LPM Core
-**Repo:** Private (LPMHub)
+**Repo:** Public (LPMHub)
 **Licence:** Apache-2.0
 
 ## What this skill does
